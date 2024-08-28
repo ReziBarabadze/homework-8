@@ -18,6 +18,8 @@
       li.style.backgroundColor = item.color; //აქ გახდება ის ფერი რაც წერია ფერის კოდში
       li.style.marginBottom = '10px';
       li.style.textAlign = 'center';
+      li.style.width = '500px'
+      li.style.padding = '5px'
       
 
       ulEl.appendChild(li);
